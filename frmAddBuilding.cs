@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace QLKTX
-{
+{//sua
     public partial class frmAddBuilding : Form
     {
         //int Sum = 0;
