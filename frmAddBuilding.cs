@@ -12,7 +12,6 @@ using System.Windows.Forms;
 
 namespace QLKTX
 {
-    //húahdjsad
     public partial class frmAddBuilding : Form
     {
         //int Sum = 0;
